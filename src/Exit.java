@@ -1,2 +1,3 @@
-public class Exit {
+public class Exit
+{
 }
